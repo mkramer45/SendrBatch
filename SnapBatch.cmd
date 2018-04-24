@@ -1,0 +1,1 @@
+start C\Location\Of\PythonSnapFacts\Script.py
